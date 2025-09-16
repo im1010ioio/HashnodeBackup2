@@ -59,7 +59,7 @@ tags: css3, css, css-animation, scroll, scroll-animation, scroll-behavior
 
 > 注意：如果需要自訂滾動的速率、時間或速率曲線，就需要自己寫 JS 才能設定詳細的參數。
 
-不過這個方法，是目前最簡單的滾動寫法，而且可以適用大部分的場景。
+不過這個方法，是目前最簡單的滾動寫法，而且可以適用於大部分的場景。
 
 > DEMO 連結：[CSS scroll-behavior smooth](https://codepen.io/im1010ioio/pen/ogjoqGR)
 
