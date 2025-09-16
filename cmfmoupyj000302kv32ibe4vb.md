@@ -35,7 +35,7 @@ tags: css3, css, css-animation, scroll, scroll-animation, scroll-behavior
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1758031501856/c0e74cd5-defc-4cb9-8fa4-5ff4b26d60c7.gif align="center")
 
-> 注意：如果你不想要 ID 出現在網址列上，而且記錄在瀏覽器的特性，那這個效果就要使用 JS 去寫囉！
+> 注意：如果你不想要 ID 出現在網址列上，而且記錄在瀏覽器歷史紀錄的特性，那這個效果就要使用 JS 去寫囉！
 
 另外，你也會發現這些跳轉行為沒有動畫，是瞬間跳轉的。  
 這時候就要介紹我們本篇 CSS 的重點語法 `scroll-behavior` 。
