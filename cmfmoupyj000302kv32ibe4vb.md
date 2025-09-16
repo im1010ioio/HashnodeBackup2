@@ -57,7 +57,7 @@ tags: css3, css, css-animation, scroll, scroll-animation, scroll-behavior
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1758032672730/951a9c71-22a2-4e4c-8f1a-35bae60aa25e.gif align="center")
 
-> 注意：如果需要自訂滾動的速率、時間或速率曲線，就需要自己寫 JS 才能設定詳細的參數。
+> 注意：如果需要自訂滾動的速率、時間或速率曲線，就需要自己寫 JS 才能設定詳細的動畫。
 
 不過這個方法，是目前最簡單的滾動寫法，而且可以適用於大部分的場景。
 
