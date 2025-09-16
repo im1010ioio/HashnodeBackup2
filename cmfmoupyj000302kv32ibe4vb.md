@@ -31,7 +31,7 @@ tags: css3, css, css-animation, scroll, scroll-animation, scroll-behavior
 
 ### (2) hash 錨點的特性
 
-點了這個連結後，除了發現捲軸跳轉外，你還會發現網址上多了 `#about` 的結尾，並且這些 hash `#` 連結（錨點）會記錄在你的瀏覽器的歷史紀錄中，按上一頁時會跳轉這些 hash `#` 連結（但是不一定會跳轉），像下圖：
+點了這個連結後，除了發現捲軸跳轉外，你還會發現網址上多了 `#about` 的結尾，並且這些 hash `#` 連結（錨點）會記錄在你的瀏覽器的歷史紀錄中，按上一頁時會跳轉這些 hash `#` 連結（但是不一定會跳轉畫面），像下圖：
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1758031501856/c0e74cd5-defc-4cb9-8fa4-5ff4b26d60c7.gif align="center")
 
