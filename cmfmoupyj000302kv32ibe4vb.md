@@ -13,7 +13,7 @@ tags: css3, css, css-animation, scroll, scroll-animation, scroll-behavior
 
 ## 一、使用 HTML hash `#` 連結（錨點），滾動到指定 HTML ID 範圍
 
-### (1) hash 錨點的設定
+### 1\. hash 錨點的設定
 
 在 CSS 中指定 ID 時是使用井字號代表，在 HTML 中其實也是一樣的，我們可以使用 `<a>` 連結連到這個 ID，點了連結後就會在同個畫面中跳到這個 ID 的所在區域。
 
@@ -29,7 +29,7 @@ tags: css3, css, css-animation, scroll, scroll-animation, scroll-behavior
 
 這種需要快速跳轉的行為，常常會用在技術文件或是法條等很長的內容。
 
-### (2) hash 錨點的特性
+### 2\. hash 錨點的特性
 
 點了這個連結後，除了發現捲軸跳轉外，你還會發現網址上多了 `#about` 的結尾，並且這些 hash `#` 連結（錨點）會記錄在你的瀏覽器的歷史紀錄中，按上一頁時會跳轉這些 hash `#` 連結（但是不一定會跳轉畫面），像下圖：
 
