@@ -88,7 +88,7 @@ tags: pseudo-elements, css3, css, lightbox, tab, target
     cursor: pointer;
 }
 
-/* 光箱背景：最關鍵的一步！我們用 ::before 偽元素做出一個覆蓋全螢幕的半透明黑底 */
+/* 光箱背景：我們用 ::before 偽元素做出一個覆蓋全螢幕的半透明黑底 */
 .lightbox .close::before {
     left: 0;
     top: 0;
