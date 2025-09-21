@@ -205,7 +205,7 @@ div {
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1758463736715/a3fab549-9c6a-4d2a-a32e-14bea7477b14.gif align="center")
 
-而另外一個範例讓每一個 `<p>` 段落在進入畫面時，  
+另外一個範例則是讓每一個 `<p>` 段落在進入畫面時，  
 才觸發自己的淡入兼移入動畫（不過這個動畫效果更常出現在照片上）。
 
 ```css
