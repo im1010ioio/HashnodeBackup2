@@ -148,7 +148,7 @@ div {
 > 
 > ![View Timeline Ranges Visualizer](https://cdn.hashnode.com/res/hashnode/image/upload/v1758460992807/e42f7b07-fa27-4748-a2b5-b7cdff501b7c.png align="left")
 > 
-> 這些範圍名稱的對應位置可能有點抽象，推薦使用 [View Timeline Ranges Visualizer](https://scroll-driven-animations.style/tools/view-timeline/ranges/) 這個工具來幫助你理解它們，它幫助你視覺化這些進度，這個和開頭的範例是同個作者做的。
+> 這些範圍名稱的對應位置可能有點抽象，推薦使用 [View Timeline Ranges Visualizer](https://scroll-driven-animations.style/tools/view-timeline/ranges/) 這個工具來幫助你理解它們，它幫助你視覺化這些進度，這個和開頭的分享是同個作者做的。
 
 ---
 
