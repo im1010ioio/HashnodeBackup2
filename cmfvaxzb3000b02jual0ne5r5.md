@@ -108,7 +108,7 @@ blockquote{
 
 ### 3\. 裝飾性內容：對話框或 Tooltip 的三角形
 
-再來一個常見的裝飾性元素 —— 對話框或 Tooltip 會有的那種三角形，通常這樣的小裝飾都會使用偽元素。
+再來一個常見的裝飾性元素 —— 對話框或 Tooltip 會有的那種三角形，通常這樣的小裝飾都會使用偽元素去做。
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1758555167717/74f5f3f7-98cc-4636-b1f3-ebd0235940ad.png align="center")
 
