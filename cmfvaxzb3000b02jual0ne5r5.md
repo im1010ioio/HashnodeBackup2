@@ -148,7 +148,7 @@ blockquote{
 詳細 block 排版方法可以看這篇：  
 [#17 CSS block、inline、inline-block：網頁排版的御三家](https://ithelp.ithome.com.tw/articles/10333384)
 
-但是這個要有 `clear: both;` 的東西，又不是我們內容所需要的，每次都為這個加一個空的 HTML 很麻煩，所以這時，我們就可以用 `::after` 來解決，這是從前非常常見的做法：
+但是這個要有 `clear: both;` 的東西，又不是我們內容所需要的，每次都為這個加一個空的 HTML 元素很麻煩，也很難管理，所以這時，我們就可以用 `::after` 來解決，這是從前非常常見的做法：
 
 ```css
 .clearfix::after {
