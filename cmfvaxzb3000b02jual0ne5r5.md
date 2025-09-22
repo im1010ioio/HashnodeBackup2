@@ -153,7 +153,7 @@ blockquote{
 ```css
 .clearfix::after {
   content: "";
-  display: block; /* 轉換為區塊元素 */
+  display: block; /* 轉換為 block 元素 */
   clear: both;    /* 清除左右浮動 */
   height: 0;
   visibility: hidden;
