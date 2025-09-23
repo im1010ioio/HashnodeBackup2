@@ -80,7 +80,7 @@ tags: pseudo-elements, css3, css, responsive-designs, responsive-web-design, pse
     }
 
     /* 平板與桌面版樣式 */
-    @media (min-width: 767px) {
+    @media (min-width: 768px) {
         tbody tr{
             display: table-row;
             &:nth-child(even) {
