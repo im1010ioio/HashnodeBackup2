@@ -169,7 +169,7 @@ blockquote{
 之前我們在講解字型設定時，有提到 iconfont (圖示字體)：  
 [#27 網頁載入字體、Icon Font 與 CSS font-family、font-weight](https://ithelp.ithome.com.tw/articles/10339314)
 
-幫大家複習一下，那時候我們用了 `::before`，在不增加額外 HTML 標籤的情況下，在 &lt;ol&gt; 清單的前方加上了 icon 圖示（不過當時是使用舊版的 Font Awesome 作 DEMO）。
+幫大家複習一下，那時候我們用了 `::before`，在不增加額外 HTML 標籤的情況下，在 `<ul>` 清單的前方加上了 icon 圖示（不過當時是使用舊版的 Font Awesome 作 DEMO）。
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697217410528/2c5178bd-361f-49aa-b3da-ee2a28c2c87d.png align="left")
 
