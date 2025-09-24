@@ -190,7 +190,7 @@ ol li:before {
 
 以下是一些 `<ol>` 常用的 `list-style-type` 種類：
 
-* `decimal`: 數字 (1, 2, 3…) (預設值)
+* `decimal`: 數字 (1, 2, 3…) (`<ol>` 的預設值)
     
 * `lower-alpha`: 小寫字母 (a, b, c…)
     
@@ -223,7 +223,7 @@ ol li:before {
 
 ```css
 ul {
-    list-style-type: disc;
+    list-style-type: circle;
 }
 
 ol {
@@ -233,7 +233,7 @@ ol {
 
 本篇的主軸是有序列表 (`<ol>`)，不過補充一下，無序列表 (`<ul>`) 時，常見的則有以下的 `list-style-type` 的選項可以使用：
 
-* `disc` (實心圓點)
+* `disc` (實心圓點, `<ul>` 的預設值)
     
 * `circle` (空心圓圈)
     
