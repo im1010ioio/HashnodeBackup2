@@ -109,6 +109,8 @@ tags: pseudo-elements, css3, css, responsive-designs, responsive-web-design, pse
 
 覺得瀏覽器預設的 `1, 2, 3...` 或 `a, b, c...` 清單樣式太單調了嗎？利用 CSS 計數器（counter）與偽元素，我們可以隨心所欲地打造獨一無二的清單序號樣式！
 
+### 1\. 原理
+
 這個技巧的原理是：
 
 1. 首先用 `counter-reset` 初始化一個計數器，
@@ -167,6 +169,79 @@ ol li:before {
 
 原本樸素的數字清單，瞬間變成了有自己樣式的圓角矩形序號！
 
+### 2\. 修改 `counter()` 的序號樣式：`list-style-type`
+
+那如果我今天不想要 1, 2, 3… 的格式，我想要使用英文字母 a, b, c…，或是羅馬數字 I, II, III… 怎麼辦呢？  
+很簡單，只需要在剛剛的 `counter()` 函式中加入對應的 `list-style-type` 值即可，用來指定計數器的樣式：
+
+```css
+ol li:before {
+    counter([counter-name], [list-style-type]);
+}
+```
+
+例如：
+
+```css
+ol li:before {
+    counter(counter-name, lower-alpha);
+}
+```
+
+以下是一些 `<ol>` 常用的 `list-style-type` 種類：
+
+* `decimal`: 數字 (1, 2, 3…) (預設值)
+    
+* `lower-alpha`: 小寫字母 (a, b, c…)
+    
+* `upper-alpha`: 大寫字母 (A, B, C…)
+    
+* `lower-roman`: 小寫羅馬數字 (i, ii, iii…)
+    
+* `upper-roman`: 大寫羅馬數字 (I, II, III…)
+    
+* `lower-latin`: 小寫拉丁字母 (a, b, c…)
+    
+* `upper-latin`: 大寫拉丁字母 (A, B, C…)
+    
+* `cjk-ideographic` 或 `trad-chinese-informal`: 繁體中文小寫 (一, 二, 三…)
+    
+* `trad-chinese-formal`: 繁體中文大寫，常用於正式文件或金融領域 (壹, 貳, 參…)
+    
+* `simp-chinese-informal`: 簡體中文小寫 (一, 二, 三…)
+    
+* `simp-chinese-formal`: 簡體中文大寫 (壹, 贰, 叁…)
+    
+* `cjk-heavenly-stem`: 天干 (甲, 乙, 丙…)
+    
+* `cjk-earthly-branch`: 地支 (子, 丑, 寅…)
+    
+
+### 3\. 補充：單獨使用 `list-style-type`
+
+這個 `list-style-type` 也可以用在沒有客製化 `<ul>`, `<ol>` 樣式的時候：
+
+```css
+ul {
+    list-style-type: disc;
+}
+
+ol {
+    list-style-type: upper-roman;
+}
+```
+
+本篇的主軸是有序列表 (`<ol>`)，不過補充一下，無序列表 (`<ul>`) 時，常見的則有以下的 `list-style-type` 的選項可以使用：
+
+* `disc` (實心圓點)
+    
+* `circle` (空心圓圈)
+    
+* `square` (實心方塊)
+    
+* `none` (無符號，常用在導覽列或選單，因為這它們通常不需要項目符號)
+    
+
 ---
 
 總結來說，CSS 偽元素不只是用來做些裝飾效果，它也可以解決複雜排版問題、提升使用者體驗的強大語法。  
@@ -181,7 +256,7 @@ ol li:before {
 
 #### ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
-感謝看到最後的你，若你覺得獲益良多，請不要吝嗇給我按個喜歡。❤️
+感謝看到最後的你，若你覺得獲益良多，請不要吝嗇[給](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQFbHt1AyXTAZbe_z_Ny_KSoAahFYMHLcnojMox7vURSkZBAP0OtUifOoMG7j1Kwx7YXXaSncX9HrUUG37uyWKFcw2si_HSmGZCpcDmC0Z0DGTQjEqEugcXISQNY0kAr_j_tiJDcBMAeNZtbUrgNFTtxX5I25fr8-25_2Q%3D%3D)我按個喜歡。❤️
 
 如果你喜歡我的創作，還想看看其他有趣的分享與日常，  
 可以追蹤我的 IG [@im1010ioio](https://www.instagram.com/im1010ioio/)，或者是[🧋送杯珍奶鼓勵我](https://im1010ioio.bobaboba.me/)，謝謝你🥰。
