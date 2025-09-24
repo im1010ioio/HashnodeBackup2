@@ -102,10 +102,9 @@ li:nth-child(2 of .highlight) {
 
 ---
 
-`of S` 語法真的是 `:nth-child` 的一大升級，讓我們在處理複雜的 HTML DOM 結構時，能夠用更簡潔、更語意化的方式選取元素。下次當你需要從特定類型的元素中挑出第 n 個時，不妨試試這個方便的新語法吧！
+`of S` 語法真的是 `:nth-child` 的一大升級，讓我們在處理複雜的 HTML DOM 結構時，能夠用更簡潔、更語意化的方式選取元素。下次當你需要從特定類型的元素中挑出第 N 個時，不妨試試這個方便的新語法吧！
 
-`of S` 是 CSS Selectors Level 4 的一部分，  
-目前全部主流的瀏覽器都已支援，可以安心地用（詳情請看 [Can I Use](https://caniuse.com/css-nth-child-of)）。
+`of S` 目前全部主流的瀏覽器都已支援，可以安心地用（詳情請看 [Can I Use](https://caniuse.com/css-nth-child-of)）。
 
 > 延伸閱讀：
 > 
