@@ -1,5 +1,5 @@
 ---
-title: "#73 CSS :nth-child 的新寫法：:nth-child of S (N of element)"
+title: "#73 CSS :nth-child 的新寫法：:nth-child of S (N of Selector)"
 datePublished: Wed Sep 24 2025 15:39:03 GMT+0000 (Coordinated Universal Time)
 cuid: cmfy5g37l000002ldhrt7c54s
 slug: css-nth-child-of-s
