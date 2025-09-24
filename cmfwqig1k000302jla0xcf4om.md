@@ -256,7 +256,7 @@ CSS 偽元素 `::before` 與 `::after` 不只是用來做些裝飾效果，它�
 
 #### ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
-感謝看到最後的你，若你覺得獲益良多，請不要吝嗇[給](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQFbHt1AyXTAZbe_z_Ny_KSoAahFYMHLcnojMox7vURSkZBAP0OtUifOoMG7j1Kwx7YXXaSncX9HrUUG37uyWKFcw2si_HSmGZCpcDmC0Z0DGTQjEqEugcXISQNY0kAr_j_tiJDcBMAeNZtbUrgNFTtxX5I25fr8-25_2Q%3D%3D)我按個喜歡。❤️
+感謝看到最後的你，若你覺得獲益良多，請不要吝嗇給我按個喜歡。❤️
 
 如果你喜歡我的創作，還想看看其他有趣的分享與日常，  
 可以追蹤我的 IG [@im1010ioio](https://www.instagram.com/im1010ioio/)，或者是[🧋送杯珍奶鼓勵我](https://im1010ioio.bobaboba.me/)，謝謝你🥰。
