@@ -1,5 +1,5 @@
 ---
-title: "#72 CSS 偽元素的進階用法：用 ::before 與 ::after 做 RWD 表格 & 客製化序號標號"
+title: "#72 CSS 偽元素的進階用法：用 ::before 與 ::after 做 RWD 表格 & 客製化樣式的序號清單 (ol, oder list)"
 datePublished: Tue Sep 23 2025 15:53:13 GMT+0000 (Coordinated Universal Time)
 cuid: cmfwqig1k000302jla0xcf4om
 slug: css-responsive-table-custom-order-list
