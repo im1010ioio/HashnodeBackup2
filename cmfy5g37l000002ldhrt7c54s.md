@@ -96,7 +96,7 @@ li:nth-child(2 of .highlight) {
 
 實際效果可到 CodePen 上試試看：
 
-> DEMO 連結：
+> DEMO 連結：[CSS :nth-child of S](https://codepen.io/im1010ioio/pen/pvgjbxR)
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1758728246291/dd4d9d92-4d8e-47e7-8144-511f8b31b231.png align="center")
 
