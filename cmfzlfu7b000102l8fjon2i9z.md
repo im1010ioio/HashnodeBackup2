@@ -288,6 +288,19 @@ tags: css3, css, scope, css-scoping, css-scope
 等 `@scope` 全面普及後，甚至可能會改變許多命名或架構方式。  
 大家有空時可以來試試看這個寫法。
 
+> 延伸閱讀：
+> 
+> * [MDN @scope](https://developer.mozilla.org/en-US/docs/Web/CSS/@scope)
+>     
+> * [CSS @scope 作用域](https://steam.oxxostudio.tw/category/css/content/scope.html)
+>     
+> * [原生 CSS scope 作用域来了，CSS 样式隔离新的希望？](https://liruifengv.com/posts/css-scope/)
+>     
+> * [揭秘CSS Scope：如何轻松实现局部样式而不影响全局](https://www.oryoy.com/news/jie-mi-css-scope-ru-he-qing-song-shi-xian-ju-bu-yang-shi-er-bu-ying-xiang-quan-ju-a14817127.html)
+>     
+> * [W3C Editor’s Draft - Scoping Styles: the @scope rule](https://drafts.csswg.org/css-cascade-6/#scoped-styles)
+>     
+
 ---
 
 #### ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
