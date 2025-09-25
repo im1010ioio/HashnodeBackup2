@@ -287,3 +287,14 @@ tags: css3, css, scope, css-scoping, css-scope
 雖然 Firefox 尚未支援，但是非常實用，是個值得期待的 CSS 屬性！  
 等 `@scope` 全面普及後，甚至可能會改變許多命名或架構方式。  
 大家有空時可以來試試看這個寫法。
+
+---
+
+#### ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
+感謝看到最後的你，若你覺得獲益良多，請不要吝嗇給我按個喜歡。❤️
+
+如果你喜歡我的創作，還想看看其他有趣的分享與日常，  
+可以追蹤我的 IG [@im1010ioio](https://www.instagram.com/im1010ioio/)，或者是[🧋送杯珍奶鼓勵我](https://im1010ioio.bobaboba.me/)，謝謝你🥰。
+
+![Eva Chen 送杯珍奶鼓勵我](https://cdn.hashnode.com/res/hashnode/image/upload/v1682564435616/c15640fc-6cee-4c33-a898-9cd6820f165a.png align="left")
