@@ -179,6 +179,8 @@ div {
 >     
 > * [MDN - light-dark()](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/light-dark)
 >     
+> * [2024 年了！ CSS 终于加入了 light-dark 函数！](https://juejin.cn/post/7443828372775764006)
+>     
 
 ---
 
