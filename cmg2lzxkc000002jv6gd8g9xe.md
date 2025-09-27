@@ -89,7 +89,7 @@ Chrome／WebView on Android 自 Chrome 96 起內建 Auto Dark Theme（又稱 For
 
 ## 二、`light-dark()` 函式
 
-`color-scheme` 是告訴瀏覽器你有兩種風格，那 `light-dark()` 就是讓你針對這兩種風格，分別指定不同顏色的調色盤。
+而 `color-scheme` 是告訴瀏覽器你有兩種風格，那 `light-dark()` 就是讓你針對這兩種風格，分別指定不同顏色的調色盤。
 
 ### 1\. 語法
 
