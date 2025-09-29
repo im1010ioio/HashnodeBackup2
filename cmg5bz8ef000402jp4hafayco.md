@@ -130,9 +130,9 @@ iOS 26 的液態玻璃（Liquid Glass）效果，今天我們來試試看網頁�
 
 > 延伸閱讀：
 > 
-> * [**Liquid Glass Effect macOS (button background)**](https://codepen.io/lucasromerodb/pen/vEOWpYM)
+> * [Liquid Glass Effect macOS (button background)](https://codepen.io/lucasromerodb/pen/vEOWpYM)
 >     
-> * [**Liquid Glass**](https://codepen.io/Mikhail-Bespalov/pen/MYwrMNy)
+> * [Liquid Glass](https://codepen.io/Mikhail-Bespalov/pen/MYwrMNy)
 >     
 > * [用CSS實現Apple的液態玻璃（Liquid Glass）UI](https://aoimonotw.blogspot.com/2025/06/liquid-glass-ui.html)
 >     
