@@ -1,5 +1,5 @@
 ---
-title: "#78 CSS + SVG 仿 Apple 液態玻璃（Liquid Glass）效果"
+title: "#78 CSS + SVG 仿 Apple iOS26 液態玻璃（Liquid Glass）效果"
 datePublished: Mon Sep 29 2025 16:16:17 GMT+0000 (Coordinated Universal Time)
 cuid: cmg5bz8ef000402jp4hafayco
 slug: css-svg-apple-liquid-glass
