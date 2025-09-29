@@ -111,7 +111,7 @@ iOS 26 的液態玻璃（Liquid Glass）效果，今天我們來試試看網頁�
 
 另外，可以試著調整 SVG 濾鏡裡的參數：
 
-* **更波動**：  
+* **更波動 (會變錘紋玻璃)**：  
     將 `<feTurbulence>` 的 `baseFrequency` 調高到 `0.025` 左右，或把 `<feDisplacementMap>` 的 `scale` 調到 `120` 以上。
     
 * **更柔順**：  
