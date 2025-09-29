@@ -90,24 +90,7 @@ iOS 26 的液態玻璃（Liquid Glass）效果，今天我們來試試看網頁�
 
 ---
 
-## 四、考慮相容性
-
-並非所有瀏覽器都支援 `backdrop-filter`。為了讓舊版瀏覽器的使用者也能看到不錯的效果，我們可以加上一個備用樣式。
-
-```css
-  /* Fallback：若瀏覽器不支援 backdrop-filter，就用柔和漸層墊底 */
-  @supports not (backdrop-filter: blur(4px)) {
-    .liquid {
-      background: linear-gradient(135deg, rgba(255,255,255,0.10), rgba(255,255,255,0.04));
-    }
-  }
-```
-
-如果瀏覽器不支援 `backdrop-filter`，就改用一個簡單的半透明漸層背景，雖然沒有扭曲效果，但至少能保持有可讀性。
-
----
-
-## 五、微調 SVG 濾鏡參數
+## 四、微調 SVG 濾鏡參數
 
 另外，可以試著調整 SVG 濾鏡裡的參數：
 
