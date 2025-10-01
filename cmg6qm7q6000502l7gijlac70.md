@@ -78,7 +78,7 @@ abbr {
 3. **定位與動畫:** 最後，我們使用 `anchor()` 函式設定目標元素的位置，讓它的寬度和位置完全等於錨點元素（例如 `left: anchor(left)` 和 `right: anchor(right)`），再加上 `transition` 屬性，流暢的動畫就完成了！
     
 
-這個方法的好處是，無論你的 Tab 寬度是否一致，或是未來增減了 Tab 項目，CSS 都能自動幫你搞定，完全不需要修改任何 JavaScript。
+這個方法的好處是，無論你的 Tab 寬度是否一致，或是未來增減了 Tab 項目，CSS 都能自動幫你搞定，完全不需要用 JS 計算位置（不過 DEMO 中切換 active 狀態的 Class 還是使用 JS 喔）。
 
 ---
 
