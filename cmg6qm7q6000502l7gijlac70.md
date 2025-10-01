@@ -151,7 +151,7 @@ abbr {
 
 ---
 
-CSS Anchor Positioning 是一個非常新的功能，目前在 iOS 26 起的 Safari 剛支援，而 Firefox 目前尚未支援（詳細請看 [Can I Use](https://caniuse.com/css-anchor-positioning)）。 雖然 Firefox 還在陸續跟進中，但它有強大潛力，它將許多以往只能依賴 JS 才能實現的複雜 Layout，回歸到 CSS 的裡。
+CSS Anchor Positioning 是一個非常新的功能，目前在 iOS 26 起的 Safari 剛支援，而 Firefox 目前尚未支援（詳細請看 [Can I Use](https://caniuse.com/css-anchor-positioning)）。 雖然還沒有全部瀏覽器支援，但它有強大潛力，因為它將許多以往只能依賴 JS 才能實現的複雜 Layout，回歸到 CSS 的裡。
 
 > 延伸閱讀：
 > 
