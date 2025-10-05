@@ -156,7 +156,7 @@ Sass 其實有兩種語法格式：
     }
     ```
     
-5. 存檔後，你會神奇地發現，`scss` 資料夾內自動生成了 `style.css` 和 [`style.css.map`](http://style.css.map) 兩個檔案！打開 `style.css` 看看，裡面的內容就是編譯好的標準 CSS。
+5. 存檔後，你會神奇地發現，`scss` 資料夾內自動生成了 `style.css` 和 `style.css.map` 兩個檔案！打開 `style.css` 看看，裡面的內容就是編譯好的標準 CSS。
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1759505999236/af0e2e81-717f-48ca-b92b-b33ebee39512.png align="center")
     
@@ -204,7 +204,16 @@ Sass 其實有兩種語法格式：
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1759505707643/fe2c8ead-6621-46cb-8c1b-f40a407a6581.png align="center")
     
 
-設定完成後，先把舊的 `style.css` 和 [`style.css.map`](http://style.css.map) 刪除，然後重新存檔，看看是不是在專案根目錄下自動建立了 `css` 資料夾，而且裡面同時產生了 `style.css` 和 `style.min.css` 兩個檔案呢？
+設定完成後，先把舊的 `style.css` 和 `style.css.map` 刪除，然後重新存檔，看看是不是在專案根目錄下自動建立了 `css` 資料夾，而且裡面同時產生了 `style.css` 和 `style.min.css` 兩個檔案呢？
+
+至於 `style.css`、`style.min.scss` 和 `.map` 檔案通常用在哪裡呢？
+
+* `style.css` ：一般，比較好讀的，用在開發時。
+    
+* `style.min.scss`：用在正式環境，因為被壓縮成一行，檔案會比較小，使用者可以載得比較快，體驗比較好。
+    
+* `.map`：讓 css 和 scss 做對應的檔案，方便 Debug，在開發者模式打開時，會顯示該 CSS 對應哪一行的 SCSS。
+    
 
 ---
 
