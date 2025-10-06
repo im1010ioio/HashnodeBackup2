@@ -241,7 +241,7 @@ scss/
 |   `-- _swiper.scss        # 外部函式庫 (Swiper)
 |
 |-- main.scss               # 【入口檔案 1】共用樣式的總入口
-|-- index.scss               # 【入口檔案 2】首頁的總入口
+|-- index.scss              # 【入口檔案 2】首頁的總入口
 |-- about.scss              # 【入口檔案 3】關於我們頁的總入口
 `-- contact.scss            # 【入口檔案 4】聯絡我們頁的總入口
 ```
