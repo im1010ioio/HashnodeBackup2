@@ -53,11 +53,11 @@ h1 {
 ```css
 /* CSS */
 h1 {
-  font-size: 26px;
+    font-size: 26px;
 }
 
 .container {
-  padding: 15px;
+    padding: 15px;
 }
 ```
 
