@@ -1,5 +1,5 @@
 ---
-title: "#85 SASS/SCSS (4) Mixins @mixin and @include"
+title: "#85 SASS/SCSS (4) Mixins @mixin & @include"
 datePublished: Mon Oct 06 2025 16:04:32 GMT+0000 (Coordinated Universal Time)
 cuid: cmgfbn2ld000002ji8pvyehrv
 slug: scss-mixin
