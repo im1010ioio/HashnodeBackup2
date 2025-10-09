@@ -1,5 +1,5 @@
 ---
-title: "#89 SASS/SCSS (8) 邏輯 @if, @each, @for, and @while"
+title: "#89 SASS/SCSS (8) 邏輯 @if, @each, @for 與 @while"
 datePublished: Thu Oct 09 2025 16:07:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmgjm1sr9000102l180luej0o
 slug: scss-if-each-for-while
