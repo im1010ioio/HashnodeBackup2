@@ -27,9 +27,13 @@ tags: css3, css, sass, scss
 ### 1\. 語法
 
 ```scss
-@if 條件 { ... } 
-@else if 條件 { ... }
-@else { ... }
+@if 條件 {
+    ...
+} @else if 條件 {
+    ... 
+} @else {
+    ...
+}
 ```
 
 ### 2\. 應用範例
