@@ -215,10 +215,18 @@ Sass 其實有兩種語法格式：
 * `.map`：讓 css 和 scss 做對應的檔案，方便 Debug，在開發者模式打開時，會顯示該 CSS 對應哪一行的 SCSS。
     
 
----
-
 這樣就已經成功搭建好 SCSS 的開發環境了。  
 接下來，我們再來慢慢學 SCSS 怎麼寫。
+
+---
+
+## 四、Sass Playground 線上即時編譯器
+
+另外，如果只是想要單純練習語法，也可以使用 Sass 提供的線上編輯器，編譯結果所見及所得喔！
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1760285616559/b6f73a52-5682-4dcb-97f0-062b76cd186f.png align="center")
+
+> 連結：[Sass: Playground](https://sass-lang.com/playground/)
 
 ---
 
