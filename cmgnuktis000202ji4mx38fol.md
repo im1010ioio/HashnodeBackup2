@@ -1,5 +1,5 @@
 ---
-title: "#91 SASS/SCSS (10) 深入了解 SCSS 資料結構 List (列表)"
+title: "#91 SASS/SCSS (10) 資料結構 List (列表)"
 datePublished: Sun Oct 12 2025 15:16:49 GMT+0000 (Coordinated Universal Time)
 cuid: cmgnuktis000202ji4mx38fol
 slug: scss-list
