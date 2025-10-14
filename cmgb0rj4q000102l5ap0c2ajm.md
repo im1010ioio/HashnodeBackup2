@@ -69,33 +69,33 @@ Sass 其實有兩種語法格式：
 
 1. **基礎篇**
     
-    * **介紹與環境設定** (Live Sass Compiler)
+    * **介紹與環境設定** (本篇，Live Sass Compiler)
         
-    * **核心語法** (Variables $ & Nesting &)
+    * [**核心語法** (變數 Variables / 巢狀寫法 Nesting)](https://ithelp.ithome.com.tw/articles/10393252)
         
-    * **檔案管理** (Partials \_ & Modules @use)
+    * [**檔案管理** (Partials / Modules)](https://ithelp.ithome.com.tw/articles/10393715)
         
 2. **進階篇**
     
-    * **樣式重用 I** (Mixins @mixin/@include & Arguments)
+    * [**樣式重用 I** (Mixins @mixin/@include)](https://ithelp.ithome.com.tw/articles/10394334)
         
-    * **樣式重用 II** (Extend @extend & Placeholder %)
+    * [**樣式重用 II** (Extend @extend & Placeholder %)](https://ithelp.ithome.com.tw/articles/10394731)
         
-    * **動態計算** (Operators & math.div())
+    * [**動態計算** (運算符號（加減乘除）)](https://ithelp.ithome.com.tw/articles/10394784)
         
-    * **顏色處理** (sass:color 模組，color.scale/color.adjust)
+    * [**顏色處理** (sass:color 模組，color.scale/color.adjust)](https://ithelp.ithome.com.tw/articles/10395161)
         
 3. **高階與實戰篇**
     
-    * **程式邏輯** (@if, @each, @for, @while)
+    * [**程式邏輯** (@if, @each, @for, @while)](https://ithelp.ithome.com.tw/articles/10395549)
         
-    * **自訂工具** (Functions @function/@return)
+    * [**自訂工具** (Functions)](https://ithelp.ithome.com.tw/articles/10395959)
         
-    * **資料結構** (**深入 Maps & Lists 的應用**)
+    * [**資料結構 I** (**深入 Lists 的應用**)](https://ithelp.ithome.com.tw/articles/10396602)
         
-    * **現代整合** (**SCSS 變數與 CSS 自訂屬性的協作**)
+    * [**資料結構 II** (**深入 Maps 的應用**)](https://ithelp.ithome.com.tw/articles/10396943)
         
-    * **品質保證** (**偵錯與錯誤處理 @debug/@warn/@error**)
+    * [**防呆與除錯** (**@debug / @warn / @error**)](https://ithelp.ithome.com.tw/articles/10397043)
         
 
 算了一下，加入這 12 篇，鐵人賽就 30 篇能達標了！  
